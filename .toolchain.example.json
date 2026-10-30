@@ -1,0 +1,5 @@
+{
+  "javaHome": "C:/outils/jdk-21",
+  "androidJar": "C:/outils/android-sdk/platforms/android-36/android.jar",
+  "buildTools": "C:/outils/android-sdk/build-tools/36.0.0"
+}
